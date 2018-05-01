@@ -1,0 +1,16 @@
+com\mycompany\springgraphql\jwt\UserDetailsServiceImpl.class
+com\mycompany\springgraphql\controller\UserController.class
+com\mycompany\springgraphql\jwt\JWTAuthorizationFilter.class
+com\mycompany\springgraphql\model\User.class
+com\mycompany\springgraphql\jwt\SecurityConstants.class
+com\mycompany\springgraphql\controller\HomeController.class
+com\mycompany\springgraphql\jwt\UserRepository.class
+com\mycompany\springgraphql\jwt\JWTAuthenticationFilter.class
+com\mycompany\springgraphql\model\UserDAO.class
+com\mycompany\springgraphql\jwt\JWTErrorResponse.class
+com\mycompany\springgraphql\jwt\JWTResponse.class
+com\mycompany\springgraphql\resolver\Query.class
+com\mycompany\springgraphql\jwt\JWTAuthenticationEntryPoint.class
+com\mycompany\springgraphql\Application.class
+com\mycompany\springgraphql\jwt\JWTResponseToken.class
+com\mycompany\springgraphql\jwt\WebSecurity.class
