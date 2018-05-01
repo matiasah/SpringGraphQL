@@ -1,8 +1,0 @@
-type User {
-    name: String!
-    password: String!
-}
-
-type Query {
-    getUsers: [User!]
-}
